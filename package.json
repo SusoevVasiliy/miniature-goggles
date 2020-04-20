@@ -1,0 +1,29 @@
+{
+  "name": "develop",
+  "version": "1.0.1",
+  "description": "The first independent development of the landing",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "globby": "^11.0.0",
+    "gulp": "^4.0.2",
+    "gulp-sass": "^4.0.2",
+    "gulp-pug": "^4.0.1"
+  },
+  "devDependencies": {
+    "gulp.spritesmith": "^6.11.0"
+  },
+  "scripts": {
+    "test": "testStart"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SusoevVasiliy/miniature-goggles.git"
+  },
+  "author": "Vasiliy Susoev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SusoevVasiliy/miniature-goggles/issues"
+  },
+  "homepage": "https://github.com/SusoevVasiliy/miniature-goggles#readme"
+}
